@@ -1,0 +1,59 @@
+{
+  "BlindPicks": [
+    "Malphite", "Garen", "Nautilus", "Lux", "Caitlyn",
+    "Jinx", "Ashe", "Annie", "Sivir", "Soraka",
+    "Amumu", "Warwick", "Nunu", "Vi", "Volibear"
+  ],
+
+  "Counters": {
+    "Darius":   { "CounteredBy": ["Vayne", "Fiora", "Garen", "Malphite"], "Counters": ["Garen", "Mordekaiser", "Sett"] },
+    "Fiora":    { "CounteredBy": ["Malphite", "Teemo", "Pantheon"], "Counters": ["Darius", "Garen", "Nasus"] },
+    "Garen":    { "CounteredBy": ["Vayne", "Darius", "Fiora"], "Counters": ["Mordekaiser", "Sett"] },
+    "Irelia":   { "CounteredBy": ["Malphite", "Pantheon", "Renekton"], "Counters": ["Yasuo", "Riven"] },
+    "Malphite": { "CounteredBy": ["Vayne", "Teemo", "Vladimir"], "Counters": ["Irelia", "Yasuo", "Zed"] },
+
+    "Yasuo":    { "CounteredBy": ["Malphite", "Pantheon", "Wukong"], "Counters": ["Orianna", "Jarvan"] },
+    "Zed":      { "CounteredBy": ["Lissandra", "Malzahar", "Morgana"], "Counters": ["Katarina", "Talon"] },
+    "Ahri":     { "CounteredBy": ["Zed", "Fizz", "Veigar"], "Counters": ["Yasuo", "Talon"] },
+    "Katarina": { "CounteredBy": ["Veigar", "Malzahar", "Diana"], "Counters": ["Zed", "Ahri"] },
+    "Lux":      { "CounteredBy": ["Zed", "Talon", "Fizz"], "Counters": ["Morgana"] },
+    "Ekko":     { "CounteredBy": ["Veigar", "Lissandra", "Zed"], "Counters": ["Ahri", "Orianna"] },
+
+    "LeeSin":   { "CounteredBy": ["Rammus", "Warwick", "Trundle"], "Counters": ["Amumu", "Vi"] },
+    "Vi":       { "CounteredBy": ["Kite junglers", "Rammus"], "Counters": ["Amumu", "Warwick"] },
+    "Amumu":    { "CounteredBy": ["LeeSin", "Elise", "Hecarim"], "Counters": ["Vi", "Warwick"] },
+
+    "Jinx":     { "CounteredBy": ["Draven", "Caitlyn", "Miss Fortune"], "Counters": ["Jhin", "Xayah"] },
+    "Jhin":     { "CounteredBy": ["Draven", "Lucian", "Jinx"], "Counters": ["Caitlyn", "Ashe"] },
+    "Caitlyn":  { "CounteredBy": ["Draven", "Lucian", "Miss Fortune"], "Counters": ["Jinx", "Jhin", "Ashe"] },
+    "Ezreal":   { "CounteredBy": ["Draven", "Miss Fortune", "Caitlyn"], "Counters": ["Jinx", "Jhin"] },
+
+    "Thresh":   { "CounteredBy": ["Blitzcrank", "Leona", "Nautilus"], "Counters": ["Janna", "Morgana"] },
+    "Nautilus": { "CounteredBy": ["Morgana", "Janna", "Soraka"], "Counters": ["Thresh", "Lux"] },
+    "Morgana":  { "CounteredBy": ["Leona", "Blitzcrank"], "Counters": ["Nautilus", "Thresh"] }
+  },
+
+  "RoleGuesses": {
+    "Darius":   ["Top"],
+    "Fiora":    ["Top"],
+    "Garen":    ["Top"],
+    "Irelia":   ["Top", "Mid"],
+    "Malphite": ["Top"],
+    "Yasuo":    ["Mid", "Bot"],
+    "Zed":      ["Mid"],
+    "Ahri":     ["Mid"],
+    "Katarina": ["Mid"],
+    "Lux":      ["Mid", "Support"],
+    "Ekko":     ["Mid", "Jungle"],
+    "LeeSin":   ["Jungle"],
+    "Vi":       ["Jungle"],
+    "Amumu":    ["Jungle", "Support"],
+    "Jinx":     ["Bot"],
+    "Jhin":     ["Bot"],
+    "Caitlyn":  ["Bot"],
+    "Ezreal":   ["Bot"],
+    "Thresh":   ["Support"],
+    "Nautilus": ["Support"],
+    "Morgana":  ["Support", "Mid"]
+  }
+}

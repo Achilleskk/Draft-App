@@ -1,0 +1,1410 @@
+[
+  {
+    "Id": "Aatrox",
+    "Name": "Aatrox",
+    "PrimaryRole": "Top",
+    "Roles": [
+      "Top"
+    ]
+  },
+  {
+    "Id": "Ahri",
+    "Name": "Ahri",
+    "PrimaryRole": "Mid",
+    "Roles": [
+      "Mid"
+    ]
+  },
+  {
+    "Id": "Akali",
+    "Name": "Akali",
+    "PrimaryRole": "Mid",
+    "Roles": [
+      "Mid",
+      "Top"
+    ]
+  },
+  {
+    "Id": "Akshan",
+    "Name": "Akshan",
+    "PrimaryRole": "Mid",
+    "Roles": [
+      "Mid",
+      "Top"
+    ]
+  },
+  {
+    "Id": "Alistar",
+    "Name": "Alistar",
+    "PrimaryRole": "Support",
+    "Roles": [
+      "Support"
+    ]
+  },
+  {
+    "Id": "Ambessa",
+    "Name": "Ambessa",
+    "PrimaryRole": "Top",
+    "Roles": [
+      "Top",
+      "Mid"
+    ]
+  },
+  {
+    "Id": "Amumu",
+    "Name": "Amumu",
+    "PrimaryRole": "Jungle",
+    "Roles": [
+      "Jungle",
+      "Support"
+    ]
+  },
+  {
+    "Id": "Anivia",
+    "Name": "Anivia",
+    "PrimaryRole": "Mid",
+    "Roles": [
+      "Mid"
+    ]
+  },
+  {
+    "Id": "Annie",
+    "Name": "Annie",
+    "PrimaryRole": "Mid",
+    "Roles": [
+      "Mid",
+      "Support"
+    ]
+  },
+  {
+    "Id": "Aphelios",
+    "Name": "Aphelios",
+    "PrimaryRole": "Bot",
+    "Roles": [
+      "Bot"
+    ]
+  },
+  {
+    "Id": "Ashe",
+    "Name": "Ashe",
+    "PrimaryRole": "Bot",
+    "Roles": [
+      "Bot",
+      "Support"
+    ]
+  },
+  {
+    "Id": "AurelionSol",
+    "Name": "Aurelion Sol",
+    "PrimaryRole": "Mid",
+    "Roles": [
+      "Mid"
+    ]
+  },
+  {
+    "Id": "Aurora",
+    "Name": "Aurora",
+    "PrimaryRole": "Mid",
+    "Roles": [
+      "Mid",
+      "Top"
+    ]
+  },
+  {
+    "Id": "Azir",
+    "Name": "Azir",
+    "PrimaryRole": "Mid",
+    "Roles": [
+      "Mid"
+    ]
+  },
+  {
+    "Id": "Bard",
+    "Name": "Bard",
+    "PrimaryRole": "Support",
+    "Roles": [
+      "Support"
+    ]
+  },
+  {
+    "Id": "Belveth",
+    "Name": "Bel'Veth",
+    "PrimaryRole": "Jungle",
+    "Roles": [
+      "Jungle"
+    ]
+  },
+  {
+    "Id": "Blitzcrank",
+    "Name": "Blitzcrank",
+    "PrimaryRole": "Support",
+    "Roles": [
+      "Support"
+    ]
+  },
+  {
+    "Id": "Brand",
+    "Name": "Brand",
+    "PrimaryRole": "Support",
+    "Roles": [
+      "Support",
+      "Mid"
+    ]
+  },
+  {
+    "Id": "Braum",
+    "Name": "Braum",
+    "PrimaryRole": "Support",
+    "Roles": [
+      "Support"
+    ]
+  },
+  {
+    "Id": "Briar",
+    "Name": "Briar",
+    "PrimaryRole": "Jungle",
+    "Roles": [
+      "Jungle"
+    ]
+  },
+  {
+    "Id": "Caitlyn",
+    "Name": "Caitlyn",
+    "PrimaryRole": "Bot",
+    "Roles": [
+      "Bot"
+    ]
+  },
+  {
+    "Id": "Camille",
+    "Name": "Camille",
+    "PrimaryRole": "Top",
+    "Roles": [
+      "Top"
+    ]
+  },
+  {
+    "Id": "Cassiopeia",
+    "Name": "Cassiopeia",
+    "PrimaryRole": "Mid",
+    "Roles": [
+      "Mid"
+    ]
+  },
+  {
+    "Id": "Chogath",
+    "Name": "Cho'Gath",
+    "PrimaryRole": "Top",
+    "Roles": [
+      "Top"
+    ]
+  },
+  {
+    "Id": "Corki",
+    "Name": "Corki",
+    "PrimaryRole": "Mid",
+    "Roles": [
+      "Mid"
+    ]
+  },
+  {
+    "Id": "Darius",
+    "Name": "Darius",
+    "PrimaryRole": "Top",
+    "Roles": [
+      "Top"
+    ]
+  },
+  {
+    "Id": "Diana",
+    "Name": "Diana",
+    "PrimaryRole": "Jungle",
+    "Roles": [
+      "Jungle",
+      "Mid"
+    ]
+  },
+  {
+    "Id": "DrMundo",
+    "Name": "Dr. Mundo",
+    "PrimaryRole": "Top",
+    "Roles": [
+      "Top",
+      "Jungle"
+    ]
+  },
+  {
+    "Id": "Draven",
+    "Name": "Draven",
+    "PrimaryRole": "Bot",
+    "Roles": [
+      "Bot"
+    ]
+  },
+  {
+    "Id": "Ekko",
+    "Name": "Ekko",
+    "PrimaryRole": "Jungle",
+    "Roles": [
+      "Jungle",
+      "Mid"
+    ]
+  },
+  {
+    "Id": "Elise",
+    "Name": "Elise",
+    "PrimaryRole": "Jungle",
+    "Roles": [
+      "Jungle"
+    ]
+  },
+  {
+    "Id": "Evelynn",
+    "Name": "Evelynn",
+    "PrimaryRole": "Jungle",
+    "Roles": [
+      "Jungle"
+    ]
+  },
+  {
+    "Id": "Ezreal",
+    "Name": "Ezreal",
+    "PrimaryRole": "Bot",
+    "Roles": [
+      "Bot"
+    ]
+  },
+  {
+    "Id": "Fiddlesticks",
+    "Name": "Fiddlesticks",
+    "PrimaryRole": "Jungle",
+    "Roles": [
+      "Jungle",
+      "Support"
+    ]
+  },
+  {
+    "Id": "Fiora",
+    "Name": "Fiora",
+    "PrimaryRole": "Top",
+    "Roles": [
+      "Top"
+    ]
+  },
+  {
+    "Id": "Fizz",
+    "Name": "Fizz",
+    "PrimaryRole": "Mid",
+    "Roles": [
+      "Mid"
+    ]
+  },
+  {
+    "Id": "Galio",
+    "Name": "Galio",
+    "PrimaryRole": "Mid",
+    "Roles": [
+      "Mid",
+      "Support"
+    ]
+  },
+  {
+    "Id": "Gangplank",
+    "Name": "Gangplank",
+    "PrimaryRole": "Top",
+    "Roles": [
+      "Top"
+    ]
+  },
+  {
+    "Id": "Garen",
+    "Name": "Garen",
+    "PrimaryRole": "Top",
+    "Roles": [
+      "Top"
+    ]
+  },
+  {
+    "Id": "Gnar",
+    "Name": "Gnar",
+    "PrimaryRole": "Top",
+    "Roles": [
+      "Top"
+    ]
+  },
+  {
+    "Id": "Gragas",
+    "Name": "Gragas",
+    "PrimaryRole": "Jungle",
+    "Roles": [
+      "Jungle",
+      "Top"
+    ]
+  },
+  {
+    "Id": "Graves",
+    "Name": "Graves",
+    "PrimaryRole": "Jungle",
+    "Roles": [
+      "Jungle"
+    ]
+  },
+  {
+    "Id": "Gwen",
+    "Name": "Gwen",
+    "PrimaryRole": "Top",
+    "Roles": [
+      "Top"
+    ]
+  },
+  {
+    "Id": "Hecarim",
+    "Name": "Hecarim",
+    "PrimaryRole": "Jungle",
+    "Roles": [
+      "Jungle"
+    ]
+  },
+  {
+    "Id": "Heimerdinger",
+    "Name": "Heimerdinger",
+    "PrimaryRole": "Mid",
+    "Roles": [
+      "Mid",
+      "Bot",
+      "Support"
+    ]
+  },
+  {
+    "Id": "Hwei",
+    "Name": "Hwei",
+    "PrimaryRole": "Mid",
+    "Roles": [
+      "Mid",
+      "Support"
+    ]
+  },
+  {
+    "Id": "Illaoi",
+    "Name": "Illaoi",
+    "PrimaryRole": "Top",
+    "Roles": [
+      "Top"
+    ]
+  },
+  {
+    "Id": "Irelia",
+    "Name": "Irelia",
+    "PrimaryRole": "Top",
+    "Roles": [
+      "Top",
+      "Mid"
+    ]
+  },
+  {
+    "Id": "Ivern",
+    "Name": "Ivern",
+    "PrimaryRole": "Jungle",
+    "Roles": [
+      "Jungle"
+    ]
+  },
+  {
+    "Id": "Janna",
+    "Name": "Janna",
+    "PrimaryRole": "Support",
+    "Roles": [
+      "Support"
+    ]
+  },
+  {
+    "Id": "JarvanIV",
+    "Name": "Jarvan IV",
+    "PrimaryRole": "Jungle",
+    "Roles": [
+      "Jungle"
+    ]
+  },
+  {
+    "Id": "Jax",
+    "Name": "Jax",
+    "PrimaryRole": "Top",
+    "Roles": [
+      "Top",
+      "Jungle"
+    ]
+  },
+  {
+    "Id": "Jayce",
+    "Name": "Jayce",
+    "PrimaryRole": "Top",
+    "Roles": [
+      "Top",
+      "Mid"
+    ]
+  },
+  {
+    "Id": "Jhin",
+    "Name": "Jhin",
+    "PrimaryRole": "Bot",
+    "Roles": [
+      "Bot"
+    ]
+  },
+  {
+    "Id": "Jinx",
+    "Name": "Jinx",
+    "PrimaryRole": "Bot",
+    "Roles": [
+      "Bot"
+    ]
+  },
+  {
+    "Id": "KSante",
+    "Name": "K'Sante",
+    "PrimaryRole": "Top",
+    "Roles": [
+      "Top"
+    ]
+  },
+  {
+    "Id": "Kaisa",
+    "Name": "Kaisa",
+    "PrimaryRole": "Bot",
+    "Roles": [
+      "Bot"
+    ]
+  },
+  {
+    "Id": "Kalista",
+    "Name": "Kalista",
+    "PrimaryRole": "Bot",
+    "Roles": [
+      "Bot"
+    ]
+  },
+  {
+    "Id": "Karma",
+    "Name": "Karma",
+    "PrimaryRole": "Support",
+    "Roles": [
+      "Support",
+      "Mid"
+    ]
+  },
+  {
+    "Id": "Karthus",
+    "Name": "Karthus",
+    "PrimaryRole": "Jungle",
+    "Roles": [
+      "Jungle",
+      "Mid"
+    ]
+  },
+  {
+    "Id": "Kassadin",
+    "Name": "Kassadin",
+    "PrimaryRole": "Mid",
+    "Roles": [
+      "Mid"
+    ]
+  },
+  {
+    "Id": "Katarina",
+    "Name": "Katarina",
+    "PrimaryRole": "Mid",
+    "Roles": [
+      "Mid"
+    ]
+  },
+  {
+    "Id": "Kayle",
+    "Name": "Kayle",
+    "PrimaryRole": "Top",
+    "Roles": [
+      "Top"
+    ]
+  },
+  {
+    "Id": "Kayn",
+    "Name": "Kayn",
+    "PrimaryRole": "Jungle",
+    "Roles": [
+      "Jungle"
+    ]
+  },
+  {
+    "Id": "Kennen",
+    "Name": "Kennen",
+    "PrimaryRole": "Top",
+    "Roles": [
+      "Top"
+    ]
+  },
+  {
+    "Id": "Khazix",
+    "Name": "Kha'Zix",
+    "PrimaryRole": "Jungle",
+    "Roles": [
+      "Jungle"
+    ]
+  },
+  {
+    "Id": "Kindred",
+    "Name": "Kindred",
+    "PrimaryRole": "Jungle",
+    "Roles": [
+      "Jungle"
+    ]
+  },
+  {
+    "Id": "Kled",
+    "Name": "Kled",
+    "PrimaryRole": "Top",
+    "Roles": [
+      "Top"
+    ]
+  },
+  {
+    "Id": "KogMaw",
+    "Name": "Kog'Maw",
+    "PrimaryRole": "Bot",
+    "Roles": [
+      "Bot"
+    ]
+  },
+  {
+    "Id": "Leblanc",
+    "Name": "LeBlanc",
+    "PrimaryRole": "Mid",
+    "Roles": [
+      "Mid"
+    ]
+  },
+  {
+    "Id": "LeeSin",
+    "Name": "Lee Sin",
+    "PrimaryRole": "Jungle",
+    "Roles": [
+      "Jungle"
+    ]
+  },
+  {
+    "Id": "Leona",
+    "Name": "Leona",
+    "PrimaryRole": "Support",
+    "Roles": [
+      "Support"
+    ]
+  },
+  {
+    "Id": "Lillia",
+    "Name": "Lillia",
+    "PrimaryRole": "Jungle",
+    "Roles": [
+      "Jungle"
+    ]
+  },
+  {
+    "Id": "Lissandra",
+    "Name": "Lissandra",
+    "PrimaryRole": "Mid",
+    "Roles": [
+      "Mid"
+    ]
+  },
+  {
+    "Id": "Lucian",
+    "Name": "Lucian",
+    "PrimaryRole": "Bot",
+    "Roles": [
+      "Bot",
+      "Mid"
+    ]
+  },
+  {
+    "Id": "Lulu",
+    "Name": "Lulu",
+    "PrimaryRole": "Support",
+    "Roles": [
+      "Support",
+      "Top"
+    ]
+  },
+  {
+    "Id": "Lux",
+    "Name": "Lux",
+    "PrimaryRole": "Support",
+    "Roles": [
+      "Support",
+      "Mid"
+    ]
+  },
+  {
+    "Id": "Malphite",
+    "Name": "Malphite",
+    "PrimaryRole": "Top",
+    "Roles": [
+      "Top",
+      "Support"
+    ]
+  },
+  {
+    "Id": "Malzahar",
+    "Name": "Malzahar",
+    "PrimaryRole": "Mid",
+    "Roles": [
+      "Mid"
+    ]
+  },
+  {
+    "Id": "Maokai",
+    "Name": "Maokai",
+    "PrimaryRole": "Top",
+    "Roles": [
+      "Top",
+      "Support"
+    ]
+  },
+  {
+    "Id": "MasterYi",
+    "Name": "Master Yi",
+    "PrimaryRole": "Jungle",
+    "Roles": [
+      "Jungle"
+    ]
+  },
+  {
+    "Id": "Milio",
+    "Name": "Milio",
+    "PrimaryRole": "Support",
+    "Roles": [
+      "Support"
+    ]
+  },
+  {
+    "Id": "MissFortune",
+    "Name": "Miss Fortune",
+    "PrimaryRole": "Bot",
+    "Roles": [
+      "Bot"
+    ]
+  },
+  {
+    "Id": "MonkeyKing",
+    "Name": "Wukong",
+    "PrimaryRole": "Jungle",
+    "Roles": [
+      "Jungle",
+      "Top"
+    ]
+  },
+  {
+    "Id": "Mordekaiser",
+    "Name": "Mordekaiser",
+    "PrimaryRole": "Top",
+    "Roles": [
+      "Top"
+    ]
+  },
+  {
+    "Id": "Morgana",
+    "Name": "Morgana",
+    "PrimaryRole": "Support",
+    "Roles": [
+      "Support",
+      "Mid"
+    ]
+  },
+  {
+    "Id": "Naafiri",
+    "Name": "Naafiri",
+    "PrimaryRole": "Mid",
+    "Roles": [
+      "Mid"
+    ]
+  },
+  {
+    "Id": "Nami",
+    "Name": "Nami",
+    "PrimaryRole": "Support",
+    "Roles": [
+      "Support"
+    ]
+  },
+  {
+    "Id": "Nasus",
+    "Name": "Nasus",
+    "PrimaryRole": "Top",
+    "Roles": [
+      "Top"
+    ]
+  },
+  {
+    "Id": "Nautilus",
+    "Name": "Nautilus",
+    "PrimaryRole": "Support",
+    "Roles": [
+      "Support"
+    ]
+  },
+  {
+    "Id": "Neeko",
+    "Name": "Neeko",
+    "PrimaryRole": "Mid",
+    "Roles": [
+      "Mid",
+      "Support"
+    ]
+  },
+  {
+    "Id": "Nidalee",
+    "Name": "Nidalee",
+    "PrimaryRole": "Jungle",
+    "Roles": [
+      "Jungle"
+    ]
+  },
+  {
+    "Id": "Nilah",
+    "Name": "Nilah",
+    "PrimaryRole": "Bot",
+    "Roles": [
+      "Bot"
+    ]
+  },
+  {
+    "Id": "Nocturne",
+    "Name": "Nocturne",
+    "PrimaryRole": "Jungle",
+    "Roles": [
+      "Jungle"
+    ]
+  },
+  {
+    "Id": "Nunu",
+    "Name": "Nunu & Willump",
+    "PrimaryRole": "Jungle",
+    "Roles": [
+      "Jungle"
+    ]
+  },
+  {
+    "Id": "Olaf",
+    "Name": "Olaf",
+    "PrimaryRole": "Jungle",
+    "Roles": [
+      "Jungle",
+      "Top"
+    ]
+  },
+  {
+    "Id": "Orianna",
+    "Name": "Orianna",
+    "PrimaryRole": "Mid",
+    "Roles": [
+      "Mid"
+    ]
+  },
+  {
+    "Id": "Ornn",
+    "Name": "Ornn",
+    "PrimaryRole": "Top",
+    "Roles": [
+      "Top"
+    ]
+  },
+  {
+    "Id": "Pantheon",
+    "Name": "Pantheon",
+    "PrimaryRole": "Support",
+    "Roles": [
+      "Support",
+      "Top",
+      "Mid"
+    ]
+  },
+  {
+    "Id": "Poppy",
+    "Name": "Poppy",
+    "PrimaryRole": "Top",
+    "Roles": [
+      "Top",
+      "Jungle"
+    ]
+  },
+  {
+    "Id": "Pyke",
+    "Name": "Pyke",
+    "PrimaryRole": "Support",
+    "Roles": [
+      "Support"
+    ]
+  },
+  {
+    "Id": "Qiyana",
+    "Name": "Qiyana",
+    "PrimaryRole": "Mid",
+    "Roles": [
+      "Mid"
+    ]
+  },
+  {
+    "Id": "Quinn",
+    "Name": "Quinn",
+    "PrimaryRole": "Top",
+    "Roles": [
+      "Top"
+    ]
+  },
+  {
+    "Id": "Rakan",
+    "Name": "Rakan",
+    "PrimaryRole": "Support",
+    "Roles": [
+      "Support"
+    ]
+  },
+  {
+    "Id": "Rammus",
+    "Name": "Rammus",
+    "PrimaryRole": "Jungle",
+    "Roles": [
+      "Jungle"
+    ]
+  },
+  {
+    "Id": "RekSai",
+    "Name": "Rek'Sai",
+    "PrimaryRole": "Jungle",
+    "Roles": [
+      "Jungle"
+    ]
+  },
+  {
+    "Id": "Rell",
+    "Name": "Rell",
+    "PrimaryRole": "Support",
+    "Roles": [
+      "Support"
+    ]
+  },
+  {
+    "Id": "Renata",
+    "Name": "Renata Glasc",
+    "PrimaryRole": "Support",
+    "Roles": [
+      "Support"
+    ]
+  },
+  {
+    "Id": "Renekton",
+    "Name": "Renekton",
+    "PrimaryRole": "Top",
+    "Roles": [
+      "Top"
+    ]
+  },
+  {
+    "Id": "Rengar",
+    "Name": "Rengar",
+    "PrimaryRole": "Jungle",
+    "Roles": [
+      "Jungle",
+      "Top"
+    ]
+  },
+  {
+    "Id": "Riven",
+    "Name": "Riven",
+    "PrimaryRole": "Top",
+    "Roles": [
+      "Top"
+    ]
+  },
+  {
+    "Id": "Rumble",
+    "Name": "Rumble",
+    "PrimaryRole": "Top",
+    "Roles": [
+      "Top",
+      "Mid"
+    ]
+  },
+  {
+    "Id": "Ryze",
+    "Name": "Ryze",
+    "PrimaryRole": "Mid",
+    "Roles": [
+      "Mid",
+      "Top"
+    ]
+  },
+  {
+    "Id": "Samira",
+    "Name": "Samira",
+    "PrimaryRole": "Bot",
+    "Roles": [
+      "Bot"
+    ]
+  },
+  {
+    "Id": "Sejuani",
+    "Name": "Sejuani",
+    "PrimaryRole": "Jungle",
+    "Roles": [
+      "Jungle"
+    ]
+  },
+  {
+    "Id": "Senna",
+    "Name": "Senna",
+    "PrimaryRole": "Support",
+    "Roles": [
+      "Support",
+      "Bot"
+    ]
+  },
+  {
+    "Id": "Seraphine",
+    "Name": "Seraphine",
+    "PrimaryRole": "Support",
+    "Roles": [
+      "Support",
+      "Mid"
+    ]
+  },
+  {
+    "Id": "Sett",
+    "Name": "Sett",
+    "PrimaryRole": "Top",
+    "Roles": [
+      "Top"
+    ]
+  },
+  {
+    "Id": "Shaco",
+    "Name": "Shaco",
+    "PrimaryRole": "Jungle",
+    "Roles": [
+      "Jungle"
+    ]
+  },
+  {
+    "Id": "Shen",
+    "Name": "Shen",
+    "PrimaryRole": "Top",
+    "Roles": [
+      "Top"
+    ]
+  },
+  {
+    "Id": "Shyvana",
+    "Name": "Shyvana",
+    "PrimaryRole": "Jungle",
+    "Roles": [
+      "Jungle"
+    ]
+  },
+  {
+    "Id": "Singed",
+    "Name": "Singed",
+    "PrimaryRole": "Top",
+    "Roles": [
+      "Top"
+    ]
+  },
+  {
+    "Id": "Sion",
+    "Name": "Sion",
+    "PrimaryRole": "Top",
+    "Roles": [
+      "Top"
+    ]
+  },
+  {
+    "Id": "Sivir",
+    "Name": "Sivir",
+    "PrimaryRole": "Bot",
+    "Roles": [
+      "Bot"
+    ]
+  },
+  {
+    "Id": "Skarner",
+    "Name": "Skarner",
+    "PrimaryRole": "Jungle",
+    "Roles": [
+      "Jungle"
+    ]
+  },
+  {
+    "Id": "Smolder",
+    "Name": "Smolder",
+    "PrimaryRole": "Bot",
+    "Roles": [
+      "Bot"
+    ]
+  },
+  {
+    "Id": "Sona",
+    "Name": "Sona",
+    "PrimaryRole": "Support",
+    "Roles": [
+      "Support"
+    ]
+  },
+  {
+    "Id": "Soraka",
+    "Name": "Soraka",
+    "PrimaryRole": "Support",
+    "Roles": [
+      "Support"
+    ]
+  },
+  {
+    "Id": "Swain",
+    "Name": "Swain",
+    "PrimaryRole": "Support",
+    "Roles": [
+      "Support",
+      "Mid"
+    ]
+  },
+  {
+    "Id": "Sylas",
+    "Name": "Sylas",
+    "PrimaryRole": "Mid",
+    "Roles": [
+      "Mid",
+      "Jungle"
+    ]
+  },
+  {
+    "Id": "Syndra",
+    "Name": "Syndra",
+    "PrimaryRole": "Mid",
+    "Roles": [
+      "Mid"
+    ]
+  },
+  {
+    "Id": "TahmKench",
+    "Name": "Tahm Kench",
+    "PrimaryRole": "Support",
+    "Roles": [
+      "Support",
+      "Top"
+    ]
+  },
+  {
+    "Id": "Taliyah",
+    "Name": "Taliyah",
+    "PrimaryRole": "Jungle",
+    "Roles": [
+      "Jungle",
+      "Mid"
+    ]
+  },
+  {
+    "Id": "Talon",
+    "Name": "Talon",
+    "PrimaryRole": "Mid",
+    "Roles": [
+      "Mid",
+      "Jungle"
+    ]
+  },
+  {
+    "Id": "Taric",
+    "Name": "Taric",
+    "PrimaryRole": "Support",
+    "Roles": [
+      "Support"
+    ]
+  },
+  {
+    "Id": "Teemo",
+    "Name": "Teemo",
+    "PrimaryRole": "Top",
+    "Roles": [
+      "Top"
+    ]
+  },
+  {
+    "Id": "Thresh",
+    "Name": "Thresh",
+    "PrimaryRole": "Support",
+    "Roles": [
+      "Support"
+    ]
+  },
+  {
+    "Id": "Tristana",
+    "Name": "Tristana",
+    "PrimaryRole": "Bot",
+    "Roles": [
+      "Bot"
+    ]
+  },
+  {
+    "Id": "Trundle",
+    "Name": "Trundle",
+    "PrimaryRole": "Jungle",
+    "Roles": [
+      "Jungle",
+      "Top"
+    ]
+  },
+  {
+    "Id": "Tryndamere",
+    "Name": "Tryndamere",
+    "PrimaryRole": "Top",
+    "Roles": [
+      "Top"
+    ]
+  },
+  {
+    "Id": "TwistedFate",
+    "Name": "Twisted Fate",
+    "PrimaryRole": "Mid",
+    "Roles": [
+      "Mid"
+    ]
+  },
+  {
+    "Id": "Twitch",
+    "Name": "Twitch",
+    "PrimaryRole": "Bot",
+    "Roles": [
+      "Bot",
+      "Jungle"
+    ]
+  },
+  {
+    "Id": "Udyr",
+    "Name": "Udyr",
+    "PrimaryRole": "Jungle",
+    "Roles": [
+      "Jungle"
+    ]
+  },
+  {
+    "Id": "Urgot",
+    "Name": "Urgot",
+    "PrimaryRole": "Top",
+    "Roles": [
+      "Top"
+    ]
+  },
+  {
+    "Id": "Varus",
+    "Name": "Varus",
+    "PrimaryRole": "Bot",
+    "Roles": [
+      "Bot",
+      "Mid"
+    ]
+  },
+  {
+    "Id": "Vayne",
+    "Name": "Vayne",
+    "PrimaryRole": "Bot",
+    "Roles": [
+      "Bot",
+      "Top"
+    ]
+  },
+  {
+    "Id": "Veigar",
+    "Name": "Veigar",
+    "PrimaryRole": "Mid",
+    "Roles": [
+      "Mid",
+      "Support"
+    ]
+  },
+  {
+    "Id": "Velkoz",
+    "Name": "Vel'Koz",
+    "PrimaryRole": "Support",
+    "Roles": [
+      "Support",
+      "Mid"
+    ]
+  },
+  {
+    "Id": "Vex",
+    "Name": "Vex",
+    "PrimaryRole": "Mid",
+    "Roles": [
+      "Mid"
+    ]
+  },
+  {
+    "Id": "Vi",
+    "Name": "Vi",
+    "PrimaryRole": "Jungle",
+    "Roles": [
+      "Jungle"
+    ]
+  },
+  {
+    "Id": "Viego",
+    "Name": "Viego",
+    "PrimaryRole": "Jungle",
+    "Roles": [
+      "Jungle"
+    ]
+  },
+  {
+    "Id": "Viktor",
+    "Name": "Viktor",
+    "PrimaryRole": "Mid",
+    "Roles": [
+      "Mid"
+    ]
+  },
+  {
+    "Id": "Vladimir",
+    "Name": "Vladimir",
+    "PrimaryRole": "Mid",
+    "Roles": [
+      "Mid",
+      "Top"
+    ]
+  },
+  {
+    "Id": "Volibear",
+    "Name": "Volibear",
+    "PrimaryRole": "Jungle",
+    "Roles": [
+      "Jungle",
+      "Top"
+    ]
+  },
+  {
+    "Id": "Warwick",
+    "Name": "Warwick",
+    "PrimaryRole": "Jungle",
+    "Roles": [
+      "Jungle"
+    ]
+  },
+  {
+    "Id": "Xayah",
+    "Name": "Xayah",
+    "PrimaryRole": "Bot",
+    "Roles": [
+      "Bot"
+    ]
+  },
+  {
+    "Id": "Xerath",
+    "Name": "Xerath",
+    "PrimaryRole": "Support",
+    "Roles": [
+      "Support",
+      "Mid"
+    ]
+  },
+  {
+    "Id": "XinZhao",
+    "Name": "Xin Zhao",
+    "PrimaryRole": "Jungle",
+    "Roles": [
+      "Jungle"
+    ]
+  },
+  {
+    "Id": "Yasuo",
+    "Name": "Yasuo",
+    "PrimaryRole": "Mid",
+    "Roles": [
+      "Mid",
+      "Bot"
+    ]
+  },
+  {
+    "Id": "Yone",
+    "Name": "Yone",
+    "PrimaryRole": "Mid",
+    "Roles": [
+      "Mid",
+      "Top"
+    ]
+  },
+  {
+    "Id": "Yorick",
+    "Name": "Yorick",
+    "PrimaryRole": "Top",
+    "Roles": [
+      "Top"
+    ]
+  },
+  {
+    "Id": "Yuumi",
+    "Name": "Yuumi",
+    "PrimaryRole": "Support",
+    "Roles": [
+      "Support"
+    ]
+  },
+  {
+    "Id": "Zac",
+    "Name": "Zac",
+    "PrimaryRole": "Jungle",
+    "Roles": [
+      "Jungle"
+    ]
+  },
+  {
+    "Id": "Zed",
+    "Name": "Zed",
+    "PrimaryRole": "Mid",
+    "Roles": [
+      "Mid"
+    ]
+  },
+  {
+    "Id": "Zeri",
+    "Name": "Zeri",
+    "PrimaryRole": "Bot",
+    "Roles": [
+      "Bot"
+    ]
+  },
+  {
+    "Id": "Ziggs",
+    "Name": "Ziggs",
+    "PrimaryRole": "Bot",
+    "Roles": [
+      "Bot",
+      "Mid"
+    ]
+  },
+  {
+    "Id": "Zilean",
+    "Name": "Zilean",
+    "PrimaryRole": "Support",
+    "Roles": [
+      "Support"
+    ]
+  },
+  {
+    "Id": "Zoe",
+    "Name": "Zoe",
+    "PrimaryRole": "Mid",
+    "Roles": [
+      "Mid"
+    ]
+  },
+  {
+    "Id": "Zyra",
+    "Name": "Zyra",
+    "PrimaryRole": "Support",
+    "Roles": [
+      "Support"
+    ]
+  }
+]
